@@ -1,2 +1,2 @@
-# RelogioDigital
- Relógio dgital em HTML, CSS e JAVASCRIPT
+# Relogio Digital
+ Relógio digital em HTML, CSS e JAVASCRIPT

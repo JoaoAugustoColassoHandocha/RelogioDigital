@@ -1,6 +1,17 @@
-# Relógio Digital
- Relógio digital em **HTML, CSS e JAVASCRIPT**
+# Digital Clock
 
-Para acessar o site [Clique Aqui](https://joaoaugustocolassohandocha.github.io/RelogioDigital/)
+The website consists of a digital clock, displaying the hours, minutes and seconds.
 
-![image](https://github.com/JoaoAugustoColassoHandocha/RelogioDigital/assets/163477998/c8d9be68-4654-4b7c-be6f-a48c15955a82)
+Languages ​​used:
+
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
+
+#
+
+To access the website, [Click here](https://joaoaugustocolassohandocha.github.io/RelogioDigital/)
+
+#
+
+![recording-2025-04-20-02-44-24-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/deafecdf-d49b-49e7-b877-77e15d469926)
